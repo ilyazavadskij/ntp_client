@@ -1,4 +1,4 @@
-#NTP-client
+# NTP-client
 A simple NTP-client which prints time of input NTP-servers.
 
 Usage: 
