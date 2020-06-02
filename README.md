@@ -1,4 +1,5 @@
-A simple NTP client which prints time of input NTP-servers.
+#NTP-client
+A simple NTP-client which prints time of input NTP-servers.
 
 Usage: 
 1. clone repository
